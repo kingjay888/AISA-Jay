@@ -1,0 +1,3 @@
+Introduction:
+  This project focuses on automating the extraction of data from PDF files and updating it into a predefined Excel template. The goal is to streamline manual data entry, reduce errors, and save time by programmatically reading the contents of multiple PDF documents and populating structured fields in Excel. The workflow involves parsing relevant information from each PDF, mapping the extracted data to the correct columns or cells in the template, and generating updated Excel files ready for use or analysis.
+  
