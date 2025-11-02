@@ -1,4 +1,21 @@
-🌻 AI Solution Architect Course at ELVTR
+  "source": [
+        "# 🌻 AI Solution Architect Course at ELVTR\n",
+        "\n",
+        "- It is an CNN Image Classification project using Kaggle datasets and fast.ai framework.\n",
+        "\n",
+        "- Let's Rock and Roll\n",
+        "\n",
+        "ROLE defintion by icon:\n",
+        "\n",
+        "- 🤠 is AI Solution Architect role.\n",
+        "\n",
+        "- 🤖 is AI Scientest role. (aka AI dev)\n",
+        "- 😎 is Devops role.\n",
+        "- 🤓 is Data Engineer role.\n",
+        "- 🤔 is AI QA role.\n"
+      ]
+
+🌻 
 
 Good day: This repository are part of the course material for the ELVTR "AI Solution Architect" course in April 2024.
 
