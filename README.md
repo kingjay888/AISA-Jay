@@ -1,4 +1,4 @@
-🌻  AI Solution Architect Course at ELVTR\
+🌻  AI Solution Architect Course at ELVTR
 
 Good day: This repository are part of the course material for the ELVTR "AI Solution Architect" course in April 2024.
 
